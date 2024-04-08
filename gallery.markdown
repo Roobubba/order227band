@@ -4,6 +4,8 @@ title: Gallery
 permalink: /gallery/
 ---
 
+{% include carousel.html height="400" unit="%" duration="7" number="1" %}
+
 carousels:
   - images: 
     - image: /img/15241840_1194167467318774_2378143932062040868_n.jpg
