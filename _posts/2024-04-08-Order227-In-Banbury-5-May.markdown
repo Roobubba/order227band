@@ -7,7 +7,7 @@ categories:
 # Gig update
 
 ### Order#227 will be in Banbury on 5 May 2024 playing the Strummer Room Records Cafe:
-[![Flyer for Strummer Room Records gig 5 May 2024 Banbury]({{site.baseurl}}/img/20240504_flyer.jpg)](https://www.facebook.com/events/742279564447361/)
+[![Flyer for Strummer Room Records gig 5 May 2024 Banbury]({{site.baseurl}}/img/flyers/20240504_flyer.jpg)](https://www.facebook.com/events/742279564447361/)
 
 <br>
 
