@@ -26,10 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://order227.co.uk"
 
 twitter_username: order227band
-# github_username:  Roobubba
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 
 plugins:
   - jekyll-feed
