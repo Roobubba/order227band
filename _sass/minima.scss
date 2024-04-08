@@ -56,6 +56,10 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+body {
+  font-family: '1952_rheinmetallregular';
+}
+
 .music-container {
 	width: 640px;
 	padding: 15px;
