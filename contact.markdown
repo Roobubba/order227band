@@ -13,7 +13,8 @@ permalink: /contact/
 
 <br>
 
-## Listen on Bandcamp: <a href="https://order227.bandcamp.com"><img src="/img/bandcamp-logotype-light-128.png" alt="Bandcamp logo" height="50"/></a>
+## Listen on Bandcamp:  
+[![Bandcamp logo]({{site.baseurl}}/img/bandcamp-logotype-light-128.png)](https://order227.bandcamp.com/album/this-promised-land)
 
 <br>
 
