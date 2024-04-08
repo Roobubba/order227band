@@ -16,19 +16,19 @@ permalink: /videos/
 21 July 2017, Wheatsheaf, Oxford, UK  
 Video credit: Alan D
 <div class="music-container">
-<iframe style="border: 0; width: 600px;" src="https://www.youtube-nocookie.com/embed/npjeR063cbE?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/npjeR063cbE?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### **Order#227 - B.O.C and Technolojihad**  
 21 July 2017, Wheatsheaf, Oxford, UK  
 Video credit: Alan D
 <div class="music-container">
-<iframe style="border: 0; width: 600px;" src="https://www.youtube-nocookie.com/embed/lYinhIpXV6o?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lYinhIpXV6o?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>			
 			
 ### **Order#227 - Something In The Bag**  
 21 July 2017, Wheatsheaf, Oxford, UK  
 Video credit: Alan D
 <div class="music-container">
-<iframe style="border: 0; width: 600px" src="https://www.youtube-nocookie.com/embed/sP8oeNANxmo?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sP8oeNANxmo?rel=0" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
