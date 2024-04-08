@@ -34,7 +34,7 @@ permalink: /contact/
 ---
 <br>
 
-### [Order#227 at Rivetgun Records](http://www.rivetgunrecords.co.uk/order227/index.htm)
+### [Order#227 at Rivetgun Records](https://www.rivetgunrecords.co.uk/order227.htm)
 
 ---
 <br>
