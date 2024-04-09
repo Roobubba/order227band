@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Order227 In Reading 18 May"
-date:   2024-04-09 09:31:22 +0000
+date:   2024-04-09 08:31:22 +0000
 categories: 
 ---
+
 # Gig update
 
 ### Order#227 will be supporting Keep Flying in Reading on 18 May 2024 for Shadow Promotions DIY:
