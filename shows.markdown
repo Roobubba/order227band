@@ -10,6 +10,7 @@ permalink: /shows/
   
 ## Upcoming Shows:
 - [Strummer Room Records Café - 4 May 2024 - Cherwell Business Village, Banbury, UK](https://www.facebook.com/events/1821013374856792/)
+- [Keep Flying, Shadow Promotions DIY - 18 May 2024 - Caste Tap, Reading, UK](https://www.facebook.com/events/s/keep-flying/305134759268623/)
 - [Corrosive Promotions - 27 Sept 2024 - The Cape of Good Hope, Oxford, UK](https://www.facebook.com/events/434227479172438/)
 
 <br>
