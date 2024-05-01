@@ -7,11 +7,8 @@ categories:
 
 # Gig update
 
-## Order#227 - Banbury - 4 May 2024 - Strummer Room Records Cafe:
-Supporting bands: [Killer Kowalski](https://www.facebook.com/killerkowalskiband/) and [Diezelbud](https://www.facebook.com/Diezelbud)
-[![Flyer for Strummer Room Records gig 4 May 2024 Banbury]({{site.baseurl}}/img/flyers/20240504_flyer.jpg)](https://www.facebook.com/events/742279564447361/)
+## ~~Order#227 - Banbury - 4 May 2024 - Strummer Room Records Cafe~~ Gig cancelled
 
 <br>
 
-Get your tickets here: [https://www.wegottickets.com/event/605777](https://www.wegottickets.com/event/605777)
-(Early bird tickets £6, Advance tickets £8, £10 on the door)
+
