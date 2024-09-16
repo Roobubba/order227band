@@ -9,13 +9,13 @@ permalink: /shows/
 <br>
   
 ## Upcoming Shows:
-- ~~Strummer Room Records Café - 4 May 2024 - Cherwell Business Village, Banbury, UK~~ Cancelled
-- [Keep Flying, Shadow Promotions DIY - 18 May 2024 - Caste Tap, Reading, UK](https://www.facebook.com/events/s/keep-flying/305134759268623/)
-- [Corrosive Promotions - 27 Sept 2024 - The Cape of Good Hope, Oxford, UK](https://www.facebook.com/events/434227479172438/)
 
+- [Corrosive Promotions - 27 Sept 2024 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/434227479172438/)
+- [Strummer Room Records - 04 Oct 2024 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/352510407681795)
 <br>
 
 ## Previous Shows:
+- [Keep Flying, Shadow Promotions DIY - 18 May 2024 - Caste Tap, Reading, UK](https://www.facebook.com/events/s/keep-flying/305134759268623/)
 - [Order#227 - 26 Jan 2018 - The Phoenix - High Wycombe, UK](https://www.facebook.com/events/1821013374856792/)
 - [Skurvi - 10 Feb 2018 - Café Reflections - Southampton, UK](https://www.facebook.com/events/165951033987506/)
 - [Thunder On The Left - 16 Feb 2018 - Wheatsheaf - Oxford, UK](https://www.facebook.com/events/1950702034957827/)
