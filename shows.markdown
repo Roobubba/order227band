@@ -8,13 +8,14 @@ permalink: /shows/
 
 <br>
   
-## Upcoming Shows:
-
-- [Corrosive Promotions - 27 Sept 2024 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/434227479172438/)
-- [Strummer Room Records - 04 Oct 2024 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/352510407681795)
+## Upcoming Shows:#
+- [Buried In Smoke Promotions - 02 May 2025 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/927124796040330)
+- [Strummer Room Records - 24 May 2025 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/606338635680156)
 <br>
 
 ## Previous Shows:
+- [Strummer Room Records - 04 Oct 2024 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/352510407681795)
+- [Corrosive Promotions - 27 Sept 2024 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/434227479172438/)
 - [Keep Flying, Shadow Promotions DIY - 18 May 2024 - Caste Tap, Reading, UK](https://www.facebook.com/events/s/keep-flying/305134759268623/)
 - [Order#227 - 26 Jan 2018 - The Phoenix - High Wycombe, UK](https://www.facebook.com/events/1821013374856792/)
 - [Skurvi - 10 Feb 2018 - Café Reflections - Southampton, UK](https://www.facebook.com/events/165951033987506/)
