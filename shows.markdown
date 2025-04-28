@@ -8,7 +8,7 @@ permalink: /shows/
 
 <br>
   
-## Upcoming Shows:#
+## Upcoming Shows:
 - [Buried In Smoke Promotions - 02 May 2025 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/927124796040330)
 - [Strummer Room Records - 24 May 2025 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/606338635680156)
 <br>
