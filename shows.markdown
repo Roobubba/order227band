@@ -9,11 +9,12 @@ permalink: /shows/
 <br>
   
 ## Upcoming Shows:
-- [Buried In Smoke Promotions - 02 May 2025 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/927124796040330)
-- [Strummer Room Records - 24 May 2025 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/606338635680156)
+- [Pop Punk Night - 31 Jan 2026 - Studio Se7en, Witney, UK](https://studiose7en.uk/index-venue.php?event_id=6964feccd1d4e)
 <br>
 
 ## Previous Shows:
+- [Strummer Room Records - 24 May 2025 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/606338635680156)
+- [Buried In Smoke Promotions - 02 May 2025 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/927124796040330)
 - [Strummer Room Records - 04 Oct 2024 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/352510407681795)
 - [Corrosive Promotions - 27 Sept 2024 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/434227479172438/)
 - [Keep Flying, Shadow Promotions DIY - 18 May 2024 - Caste Tap, Reading, UK](https://www.facebook.com/events/s/keep-flying/305134759268623/)
