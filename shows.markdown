@@ -10,6 +10,7 @@ permalink: /shows/
   
 ## Upcoming Shows:
 - [Pop Punk Night - 31 Jan 2026 - Studio Se7en, Witney, UK](https://studiose7en.uk/index-venue.php?event_id=6964feccd1d4e)
+- [Convergence Fest - 23 May 2026 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/735356082964587)
 <br>
 
 ## Previous Shows:
