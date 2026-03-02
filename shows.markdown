@@ -9,8 +9,8 @@ permalink: /shows/
 <br>
   
 ## Upcoming Shows:
-- [Convergence Fest - 23 May 2026 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/735356082964587)
 - [Rage DC Album Release Party - 12 April 2026 - The Facebar, Reading, UK](https://business.facebook.com/events/2255694998293765/)
+- [Convergence Fest - 23 May 2026 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/735356082964587)
 <br>
 
 ## Previous Shows:
