@@ -9,7 +9,7 @@ categories:
 
 ## Order#227 - Reading - 14 April 2026 - The Facebar
 
-### *Order#227* will be playing The Facebar in Reading on Sunday 12 April 2026 with Rage DC and Red Anger:
+### *Order#227* will be playing The Facebar in Reading on Sunday 12 April 2026 with Rage DC, Red Anger, and Public Service Announcement:
 
 [![Flyer for Rage DC Album Release Party 12 April 2026 Reading]({{site.baseurl}}/img/flyers/20260412_flyer.jpg)](https://business.facebook.com/events/2255694998293765/)
 <br>
