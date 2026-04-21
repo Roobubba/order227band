@@ -9,11 +9,12 @@ permalink: /shows/
 <br>
   
 ## Upcoming Shows:
-- [Rage DC Album Release Party - 12 April 2026 - The Facebar, Reading, UK](https://business.facebook.com/events/2255694998293765/)
+- [Band Showcase - 24 April 2026 - Studio Se7en, Witney, UK](https://studiose7en.uk/)
 - [Convergence Fest - 23 May 2026 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/735356082964587)
 <br>
 
 ## Previous Shows:
+- [Rage DC Album Release Party - 12 April 2026 - The Facebar, Reading, UK](https://business.facebook.com/events/2255694998293765/)
 - [Strummer Room Records - 24 May 2025 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/606338635680156)
 - [Buried In Smoke Promotions - 02 May 2025 - The Jericho Tavern, Oxford, UK](https://www.facebook.com/events/927124796040330)
 - [Strummer Room Records - 04 Oct 2024 - The Apothecary Tap, Banbury, UK](https://www.facebook.com/events/352510407681795)
